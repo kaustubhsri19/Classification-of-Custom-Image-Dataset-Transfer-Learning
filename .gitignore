@@ -1,0 +1,12 @@
+# Ignore dataset zip file
+cats_and_dogs_filtered.zip
+
+# Ignore extracted dataset folder
+cats_and_dogs_filtered/
+
+# Ignore model files
+mobilenet_finetuned_model.h5
+
+# Ignore Python cache and notebook checkpoints
+__pycache__/
+.ipynb_checkpoints/
